@@ -37,7 +37,7 @@ How to Run
 This will:
 - Load a sample Sudoku puzzle
 - Solve it
-- Print the original and solved board the teminal
+- Print the original and solved board the terminal
 - Display solve time, assignments made, and backtracks
 You will also see various plots (Sudoku board visualization, performance graphs) pop up as windows using Matplotlib.
 
